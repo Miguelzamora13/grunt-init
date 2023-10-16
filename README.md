@@ -1,4 +1,4 @@
-# grunt-init [![Build Status](https://secure.travis-ci.org/gruntjs/grunt-init.png?branch=master)](http://travis-ci.org/gruntjs/grunt-init)
+# grunt-init. [![Build Status](https://secure.travis-ci.org/gruntjs/grunt-init.png?branch=master)](http://travis-ci.org/gruntjs/grunt-init)]
 Grunt-init is a scaffolding tool used to automate project creation.
 
 ## Introduction
